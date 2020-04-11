@@ -11,6 +11,8 @@ TossItRight is a recylcing app that let's you snap a picture of the item you wan
 
 ![Tossitright Architecture](images/Architecture.jpg)
 
+The frond-end to the app can we found [here](https://github.com/shikha-bhattarai/TossItRightDemo).
+
 ## Tools
 <ul>
 <li>Amazon Sagemaker
